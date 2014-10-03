@@ -1,6 +1,7 @@
 # _GalaXQL Tutorial Solutions_
 
-_SQL tutorial covering basic, intermediate and advanced SQL functions_
+_SQL tutorial covering basic, intermediate and advanced SQL functions._
+_GalaXQL software generates three tables of stars, planets and moons, each with 50,000 rows of data._
 
 ## Contents
 
