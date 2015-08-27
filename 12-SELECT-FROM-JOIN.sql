@@ -5,4 +5,4 @@ Planets.name AS planetname,
 FROM Stars
 LEFT JOIN Planets
 ON Planets.starId = Stars.starId
-WHERE Stars.starId < 100
+WHERE Stars.starId > 500 AND Stars.starId < 600
